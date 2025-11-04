@@ -2,10 +2,9 @@
 
 urlfiltering.paloaltonetworks.com/test-malware
 
-# test cc  
+# test cc #
 
-4111111111111111
-
+4929-3813-3266-4295
 
 # test malcode
 
